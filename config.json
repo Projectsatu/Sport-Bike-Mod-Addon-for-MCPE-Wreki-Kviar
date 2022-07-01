@@ -2,13 +2,13 @@
   "Config": [
     {
       "interval": 2,
-      "backup": "unity",
+      "backup": "applovin",
       "status": true,
       "link": "https://ipsaya.com/hostinglokasi.php",
       
-      "addon": false,
-      "maps": false,
-      "texture": false,
+      "addon": true,
+      "maps": true,
+      "texture": true,
       "skin": true,
       "more": false,
       
@@ -22,9 +22,9 @@
       "unity_inter": "Interstitial_Android",
       
       
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
+      "applovin_banner": "df5debe418ff79e6",
+      "applovin_inter": "4bb4a805d251a352",
+      "applovin_native": "9b409eee00cfc45f",
       
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
@@ -34,33 +34,193 @@
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+      "name": "Yamaha RX115",
+      "role": "Here's a project I wanted to do for awhile now. The car's 2 wheeled-cousin, motorcycles! Introducing the Yamaha RX115, a motorcycle that may not be famous or even known in most parts of the world, but used to rule the roads of countries like Pakistan, Uruguay and Southeast Asian countries back in the 1980's. Affordable, strong, reliable, fast; key characteristics that made this bike popular amongst the youth community of these countries.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/1/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/1/Yamaha RX115 (Mobile)v1.1.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/1/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/1/1.png"
+  },
+  {
+      "name": "BikeCraft Add-On",
+      "role": "What if we have a option to find materials, craft and use Motorcycles in Minecraft? With this add-on you can do this. Craft awesome motorcycles and have fun with your friends (Or, maybe... your pig).",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/2/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/2/MOTORCYCLE ADDON.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/2/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/2/1.png"
+  },
+  {
+      "name": "Moto Mod/Addon",
+      "role": "MOTO MOD/ADDON is a mod that adds 2 mobs into the game, and can transform into a motorcycle or a cyborg, and you can download it on a mediafire link!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/3/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/3/MOTO MOD BY OFTHEBAND STUDIO.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/3/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/3/1.png"
+  },
+  {
+      "name": "Ossa 250 Tracker",
+      "role": "Hi! Im back, Sorry for not posting this past 1 month and I had somestuff to do so I can't post this add-ons. So now.. Im back in business babyy. So about the add-on the Ossa 250 Tracker, Ossa was a Spanish motorcycle manufacturer which was active from 1924 to 1982 and from 2010 to 2015.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/4/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/4/Ossa 250 Tracker MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/4/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/4/1.png"
+  },
+  {
+      "name": "Loginicum: All Mods and Animations (Release of Project {Aliens})",
+      "role": "Hello! This is the general page of all my mods. Here will be all my mods, as well as textures with animations.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/5/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/5/Motocycle+Addon.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/5/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/5/1.jpg"
+  },
+  {
+      "name": "Honda BeAT Motorcycle",
+      "role": "A scooter that is mainly found in Southeast Asia Countries like Brunei, Burma (Myanmar), Cambodia, Timor-Leste, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand and Vietnam. Actaully this kind of scooter-type motorcycle is 'well-known' in This Countriesand yea, I chose this scooter cuz its kinda famous in southeast asia countries and why not make it.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/6/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/6/Honda Beat MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/6/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/6/1.png"
+  },
+  {
+      "name": "BMW R75",
+      "role": "BMW R75, a motorcycle made by a Company called BMW. It was used by the military during WW2 as a means of transportation by military troops. Anyways this motorcycle was suppose to be a normal like city bike or town bike (there's a city bike version called the R75/5) but I change my mind while modeling the motorcycle and I made the BMW R75 the military version. This add-on comes in 3 variants.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/7/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/7/BMW R75 MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/7/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/7/1.png"
+  },
+  {
+      "name": "Suzuki GS500",
+      "role": "Suzuki GS500 I accidentally called it 'Suzuki GS5000' in the add-on and the link so I messed up real bad this time. The Suzuki GS500 is an entry level motorcycle manufactured and marketed by the Suzuki Motor Corporation.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/8/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/8/Suzuki GS5000 MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/8/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/8/1.png"
+  },
+  {
+      "name": "Honda EX5 Dream",
+      "role": "Helo! I am SpiicyMiata_ (New Addon Maker) btw I just started so yeahh..... Are u looking for cool and vintage looking motorcycles? Well this is the right place to find one! The Honda EX5 Dream is also known as the Honda C100EX (1986 model) There we're more models like the C100,C102,C50,C70 and many more.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/9/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/9/Honda EX5 Dream MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/9/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/9/1.png"
+  },
+  {
+      "name": "Honda CRF250F",
+      "role": "Do you like off-roading or motor-cross???.. then this is the 'perfect Motor' for you. OK its not the perfect but its suitable for motor-crossing and off-roading duhh. Anyways its launched in the year 2000 and there's many more models after this one > CRF-F but I picked the CRF-F series and you maybe wondering why? and here's the answer .. I just like this series of CRF. ;)",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/10/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/10/Honda CRF250F MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/10/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/10/1.png"
+  },
+  {
+      "name": "Honda Monkey 125",
+      "role": "Howdy! Fellow monkee's so for this Add-on I've made the 'Honda Monkey 125' so this motorcycle is basically A small bike also known as 'monkey bike' a 2019 model. Anyways its called the monkey bike because the name stems from what the rider looks like when seated on the bike.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/11/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/11/Honda Monkey 125 MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/11/2.png",
+      "imgcoverdua": "https://kossandroid.comData Android/Minecraft/Montor/11/1.png/"
+  },
+  {
+      "name": "Suzuki PV 50",
+      "role": "Another mini-bike from your's truly Spiicy_. Ok ok sorry I'm cringing too much, so the Suzuki PV 50 it's called a mini-bike because the size of the bike is kinda small like the (Honda Monkey 125)one of my add-ons BUT the Suzuki PV 50 is a lil smaller when compared to the Honda Monkey.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/12/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/12/Suzuki PV 50 MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/12/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/12/1.png"
+  },
+  {
+      "name": "Honda CBR600RR",
+      "role": "Yup, Another day another Honda model soo for today's model I made a Nice,epic,cool, and verycool.... Superbike well actually it's nice but not to 'PERFECT' It's kinda hard to do the front part of the motorbike but still. I did it! very much da poggers yeah epic cool ery'nice.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/13/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/13/Honda CBR600RR MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/13/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/13/1.png"
+  },
+  {
+      "name": "Suzuki S1",
+      "role": "Since you guys like DirtBike's , or my previous add-on like the 'Honda CRF200F' . I've made another dirtbike well it's like a dirtbike, google said it.. Yeah and with that I just made the bike.This motorcycle comes in 1 variant only.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/14/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/14/Suzuki S1 MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/14/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/14/1.png"
+  },
+  {
+      "name": "More Vehicles - Updated with Bus and Ambulance",
+      "role": "Start your own taxi service, drive your friends around and charge them! Taxi not big enough? How about a bus? Race around in your own F1 racing car? Or an ice-cream truck business and a pizza truck business.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/15/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/15/vehicles.v4.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/15/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/15/1.jpeg"
+  },
+  {
+      "name": "Yamaha XS1",
+      "role": "The Yamaha XS-1 was a Air Cooled, Four Stroke, Parallel Twin Cylinder, SOHC, 2 Valves Per Cylinder Naked motorcycle produced by Yamaha in 1970. Max torque was 39.83 ft/lbs (54.0 Nm) @ 6800 RPM.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/16/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/16/Yamaha XS1 MCPE.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/16/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/16/1.png"
+  },
+  {
+      "name": "Motorcycle Addon",
+      "role": "This addon adds motorcycles to minecraft is available in red the motorcycles are not so fast they are something fast so it will be easy to control them",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/17/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/17/Motorcycle Addon by Team Infinite Minds.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/17/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/17/1.png"
+  },
+  {
+      "name": "B203 Motorcycle (Addon)",
+      "role": "B203 is an all terrain motorcycle made for combat and transportation the motorcycle is planned to be use on a map name further than zero. 2 players can ride the motorcycle. I got the ideas on the model from loginium mars motorcycle (addon) but this is a complete a different model and texture.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/18/2.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/18/B203 Motorcycle.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/18/1.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/18/1.png"
+  },
+  {
+      "name": "Utility Vehicles Pack",
+      "role": "I don't wanna make this long, this addon is a collection of my previous utility vehicles that I've made, as well as new ones such as school buses, police cars and ambulances, with more to come in the future!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/23/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/23/Utility Vehicles pack.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/23/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/23/1.png"
+  },
+  {
+      "name": "Tokyo Ravengers Addon",
+      "role": "This addon is inspired by anime called Tokyo Ravengers where you will experience the world of gangster in Minecraft Bedrock Edition. Come and join the world of gangs and be the number one.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/21/3.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/21/TokyoRavengersAddon.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/21/2.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/21/1.jpeg"
+  }
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+      "name": "DiamonC’s 5 Slime Block Creations",
+      "role": "Ever wanted to fly a private jet to the nearest village? Perhaps you want to tame a dragon and rule the skies! Or maybe control a giant indestructible mech that destroys everything in its path! You can do all that in DiamonC’s 5 Slimestone Creations!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/19/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/19/DiamonC_1587415484.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/19/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/19/1.png"
+  }
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+      "name": "Elite Structures",
+      "role": "Are you tired of having to build an entire city block by block in minecraft? do you wish you could spawn structures instantly? well wish no more! with this addon you can spawn over 500+ different unique structures all from a touch of a button! this addon has all kinds of structures ranging from medieval castles and western shops to suburban skyscrapers, this addon has it all.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/22/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/22/Elite_Structures.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/22/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/22/1.png"
+  },
+  {
+      "name": "Redstone Mechanic Addon",
+      "role": "Redstone Mechanic is an add-on which replaces 25 vanilla mobs with awesome Redstone mobs! It also adds a whole bunch of new items such as underwater helmets and powerful weapons.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Montor/24/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Montor/24/redstone-mechanic-behavior.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Montor/24/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Montor/24/1.jpg"
+  }
   ],
   "Skins": [
     {
